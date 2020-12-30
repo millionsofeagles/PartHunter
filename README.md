@@ -52,3 +52,13 @@ Add Items to the items.json file:
 
 ##### Run the program
 `user@hostname:~$ python3 watch.py`
+
+##### Potential Errors
+If you are using a gmail account for your SENDER_ADDRESS, you may encounter the following error:
+
+```
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'5.7.8 Username and Password not accepted. Learn more at\n5.7.8  https://support.google.com/mail/?p=BadCredentials k73sm28970392qke.63 - gsmtp')
+```
+
+If you do, click your user emblem in the top right of the page when in gmail, then click 'Manage your Google Account'.  On the left, click Security.  Scroll down to 'Less secure app access' and change it to on (not recommended for an everday account!). Now, try to run the program again.
