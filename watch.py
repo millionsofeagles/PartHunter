@@ -53,8 +53,7 @@ def search(Items):
                 element = driver.find_elements_by_class_name("add-to-cart-button")
                 element[0].click()
                 time.sleep(5)
-        driver.close()
-    driver.quit()
+        driver.quit()
 
 def populate_items():
     jsonfile = open("items.json", )
