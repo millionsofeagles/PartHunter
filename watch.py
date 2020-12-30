@@ -3,15 +3,17 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import config
 import json
+import time
 
 class Item:
-    def __init__(self, name, url, msg_css_selector, msg, price_css_selector, price=0):
+    def __init__(self, name, url, msg_css_selector, price_css_selector, msg, add_to_cart, price=0):
         self.name = name
         self.url = url
         self.msg_css_selector = msg_css_selector
         self.price_css_selector = price_css_selector
-        self.price = price
         self.msg = msg
+        self.add_to_cart = add_to_cart
+        self.price = price
 
 def send_mail(item, dest_address):
 
@@ -40,13 +42,19 @@ def search(Items):
         options = Options()
         options.add_argument("--headless")
         driver_path = config.DRIVER_PATH
-        driver = webdriver.Firefox(executable_path=driver_path, firefox_options=options)
+        driver = webdriver.Firefox(executable_path=driver_path, options=options, firefox_profile=config.FF_PROFILE_PATH)
         driver.get(item.url)
         msg_elem = driver.find_element_by_css_selector(item.msg_css_selector)
         #price_elem = driver.find_element_by_css_selector(item.price_css_selector)
         if item.msg in msg_elem.text:# and int(price_elem.text) <= item.price:
             for dest_address in config.RECIEVER_ADDRESSES:
                 send_mail(item, dest_address)
+            if item.add_to_cart == True:
+                element = driver.find_elements_by_class_name("add-to-cart-button")
+                element[0].click()
+                time.sleep(5)
+        driver.close()
+    driver.quit()
 
 def populate_items():
     jsonfile = open("items.json", )
@@ -57,11 +65,13 @@ def populate_items():
             entry["name"],
             entry["url"],
             entry["msg_css_selector"],
-            entry["msg"],
             entry["price_css_selector"],
+            entry["msg"],
+            entry["add_to_cart"],
             entry["price"],
         ))
     return items
+
 if __name__ == '__main__':
     #TODO: Loop this indefinitely
     #TODO: Add waits to web requests
