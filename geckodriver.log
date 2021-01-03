@@ -265,15 +265,19 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg1609355210419	mozrun
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1609355212907	Marionette	INFO	Listening on port 65134
-1609355213159	Marionette	WARN	TLS certificate errors will be ignored for this session
-JavaScript warning: https://pagead2.googlesyndication.com/bg1609355220923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileeG5gW8"
+1JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+gram Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileeG5gW8"
 *** You are running in headless mode.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1609355223022	Marionette	INFO	Listening on port 65287
-1609355223166	Marionette	WARN	TLS certificate errors will be ignored for this session
-1609355229035	Marionette	INFO	Stopped listening on port 65287
-
-###!!! [Child][MessageChannel] Error: (msgtype=0x5B000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+1JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+ame=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
 
 
 ###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
@@ -5146,3 +5150,613 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEven
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1609457045351	geckodriver	INFO	Listening on 127.0.0.1:51779
+1609457050603	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileyg6by8"
+*** You are running in headless mode.
+1609457052878	Marionette	INFO	Listening on port 51787
+1609457053297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+1609457057230	FirefoxAccounts	ERROR	Rejected FxA webchannel message from remoteType = web
+1609457057882	Marionette	INFO	Stopped listening on port 51787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609457061652	geckodriver	INFO	Listening on 127.0.0.1:51902
+1609457066848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileIIruAn"
+*** You are running in headless mode.
+1609457068834	Marionette	INFO	Listening on port 51910
+1609457068917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+1609457072761	FirefoxAccounts	ERROR	Rejected FxA webchannel message from remoteType = web
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1609457074540	Marionette	INFO	Stopped listening on port 51910
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1609717243772	geckodriver	INFO	Listening on 127.0.0.1:58566
+1609717249802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileH5k9ZM"
+*** You are running in headless mode.
+1609717253687	Marionette	INFO	Listening on port 58576
+1609717254204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717260908	FirefoxAccounts	ERROR	Rejected FxA webchannel message from remoteType = web
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDk0MDc2NTgsImlhdCI6MTYwOTM4NjA1OCwianRpIjoiOTM4MGYyMDQxMTE4MjRlMDc5ZDhjYWI4Y2UxNjgwOTMyZWNhYzI1ZjJiNjhjNzYyOGNlYmNlZGZiNTI3NTk5ZSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJjYmM5Yjg1ZGIwZGQ0OTRkYmM4OTRjOGYzYjkyNzI4NSIsImZ4YS1nZW5lcmF0aW9uIjoxNjA5MzU5MDEyMzUwLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwOTM1OTAxMjM1MH0.E1RfKTynjotJudu0pOn1QenA8MmZciRPJr4FDs0ASPspzNQGERZUoMg2sPFEIzzS1P8ZjQTeYSrvag3rin299OTrOCYF-7aQaYhnVtKGhE51FJqcRRORyNnTOec_pPJKKkzvlJz8n1hIGXEghkBO2xBVPwJf3YUqpCLW6LW0jHGZMHN9RYy1KnVy66vC7hYxFCutp-KcSvIyDjJ7e4QZxyGIMdywdKZ6gNIiWDoQM5d7LMCNktj3xdnEfQXwfi26TA7bC3arEb-gB9krXr4y0o7x5AZ4oPq_cZ58qCac0YeaMnGMe4PSXzaR7KX6dzZL2i5yrO8cSxMPT64oKCQzTw"
+1609717338426	geckodriver	INFO	Listening on 127.0.0.1:58768
+1609717346259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilejhjMFr"
+*** You are running in headless mode.
+1609717352330	Marionette	INFO	Listening on port 58805
+1609717352554	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717356390	Marionette	INFO	Stopped listening on port 58805
+[Child 21340, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Parent 17144, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717362387	geckodriver	INFO	Listening on 127.0.0.1:58950
+1609717368444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileB9TtO5"
+*** You are running in headless mode.
+1609717372315	Marionette	INFO	Listening on port 58958
+1609717372759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717376263	Marionette	INFO	Stopped listening on port 58958
+[Parent 25208, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1609717382520	geckodriver	INFO	Listening on 127.0.0.1:59093
+1609717390610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofile6ZbPoC"
+*** You are running in headless mode.
+1609717395379	Marionette	INFO	Listening on port 59102
+1609717395513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717399795	Marionette	INFO	Stopped listening on port 59102
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1609717406643	geckodriver	INFO	Listening on 127.0.0.1:59315
+1609717540354	geckodriver	INFO	Listening on 127.0.0.1:59349
+1609717547624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilemes9Z4"
+*** You are running in headless mode.
+1609717552204	Marionette	INFO	Listening on port 59358
+1609717552515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717556506	Marionette	INFO	Stopped listening on port 59358
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000E,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+[Parent 31892, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717562763	geckodriver	INFO	Listening on 127.0.0.1:59488
+1609717568728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileB03D9t"
+*** You are running in headless mode.
+1609717572188	Marionette	INFO	Listening on port 59496
+1609717572487	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717576198	Marionette	INFO	Stopped listening on port 59496
+[Child 20632, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 20632, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 20632, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717581489	geckodriver	INFO	Listening on 127.0.0.1:59634
+1609717587772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofile5BCuGs"
+*** You are running in headless mode.
+1609717591175	Marionette	INFO	Listening on port 59642
+1609717591517	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717594992	Marionette	INFO	Stopped listening on port 59642
+[Parent 34096, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717600565	geckodriver	INFO	Listening on 127.0.0.1:59780
+1609717606869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileZtn7df"
+*** You are running in headless mode.
+1609717610315	Marionette	INFO	Listening on port 59788
+1609717610640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717614034	Marionette	INFO	Stopped listening on port 59788
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 13972, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717620587	geckodriver	INFO	Listening on 127.0.0.1:59925
+1609717655975	geckodriver	INFO	Listening on 127.0.0.1:59931
+1609717662283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilegnbVoo"
+*** You are running in headless mode.
+1609717666162	Marionette	INFO	Listening on port 59939
+1609717666541	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23124, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717670147	Marionette	INFO	Stopped listening on port 59939
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717676700	geckodriver	INFO	Listening on 127.0.0.1:60050
+1609717683235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilejXzTwd"
+*** You are running in headless mode.
+1609717686795	Marionette	INFO	Listening on port 60066
+1609717687010	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717690507	Marionette	INFO	Stopped listening on port 60066
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717696540	geckodriver	INFO	Listening on 127.0.0.1:60200
+1609717703741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofile0ot7lX"
+*** You are running in headless mode.
+1609717709921	Marionette	INFO	Listening on port 60210
+1609717710149	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717715354	Marionette	INFO	Stopped listening on port 60210
+1609717717010	Sync.EngineManager	ERROR	Could not initialize engine : Error: Unable to arm timer, the object has been finalized.(resource://gre/modules/DeferredTask.jsm:215:13) JS Stack trace: arm@DeferredTask.jsm:215:13
+saveSoon@JSONFile.jsm:431:24
+set previousFailed@engines.js:1112:33
+_resetClient@engines.js:2165:27
+observe@AsyncShutdown.jsm:573:16
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-change-teardown" is finished, it is too late to register completion condition "StorageSyncService: shutdown"
+1609717717056	Sync.EngineManager	ERROR	Could not initialize engine : [Exception... "ServiceManager::GetService returned failure code:"  nsresult: "0x80570016 (NS_ERROR_XPC_GS_RETURNED_FAILURE)"  location: "JS frame :: resource://gre/modules/XPCOMUtils.jsm :: XPCU_serviceLambda :: line 144"  data: no] Stack trace: XPCU_serviceLambda()@resource://gre/modules/XPCOMUtils.jsm:144
+get()@resource://gre/modules/XPCOMUtils.jsm:58
+ExtensionStorageEngineBridge()@resource://services-sync/engines/extension-storage.js:75
+register()@resource://services-sync/engines.js:703
+registerAlternatives()@resource://services-sync/engines.js:633
+_registerEngines()@resource://services-sync/service.js:485
+observe()@resource://gre/modules/AsyncShutdown.jsm:573
+[Parent 2128, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717726975	geckodriver	INFO	Listening on 127.0.0.1:60343
+1609717736751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilelMo0fz"
+*** You are running in headless mode.
+1609717743179	Marionette	INFO	Listening on port 60376
+1609717743798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717747947	Marionette	INFO	Stopped listening on port 60376
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 718: TypeError: captureCallback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "DoHController: clear state and remove observers"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717754945	geckodriver	INFO	Listening on 127.0.0.1:60470
+1609717761741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilesm1h5O"
+*** You are running in headless mode.
+1609717765577	Marionette	INFO	Listening on port 60481
+1609717766046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717769891	Marionette	INFO	Stopped listening on port 60481
+[Parent 19316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1609717776751	geckodriver	INFO	Listening on 127.0.0.1:60587
+1609717783357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilemkYpvE"
+*** You are running in headless mode.
+1609717788348	Marionette	INFO	Listening on port 60595
+1609717788717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717792537	Marionette	INFO	Stopped listening on port 60595
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 718: TypeError: captureCallback is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+1609717799472	geckodriver	INFO	Listening on 127.0.0.1:60721
+1609717805632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilevFkLF2"
+*** You are running in headless mode.
+1609717809021	Marionette	INFO	Listening on port 60729
+1609717809400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717813177	Marionette	INFO	Stopped listening on port 60729
+[Child 2484, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1609717819534	geckodriver	INFO	Listening on 127.0.0.1:60867
+1609717827283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileArrXhM"
+*** You are running in headless mode.
+1609717834722	Marionette	INFO	Listening on port 60876
+1609717835061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717843970	Marionette	INFO	Stopped listening on port 60876
+1609717844198	Sync.ErrorHandler	ERROR	Sync encountered an error: Error: Can't sync: Firefox is about to shut down(resource://services-sync/stages/enginesync.js:59:13) JS Stack trace: sync@enginesync.js:59:13
+onNotify@service.js:1351:28
+WrappedNotify@util.js:210:32
+WrappedLock@util.js:166:27
+_lockedSync@service.js:1370:6
+sync/<@service.js:1334:18
+WrappedCatch@util.js:133:27
+sync@service.js:1335:7
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3C0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 15952, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+1609717849820	geckodriver	INFO	Listening on 127.0.0.1:61009
+1609717856126	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileyGJqtH"
+*** You are running in headless mode.
+1609717860044	Marionette	INFO	Listening on port 61019
+1609717860801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+1609717865703	Marionette	INFO	Stopped listening on port 61019
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+1609717872430	geckodriver	INFO	Listening on 127.0.0.1:61134
+1609717881549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileqVJTDx"
+*** You are running in headless mode.
+1609717886491	Marionette	INFO	Listening on port 61149
+1609717886952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717891624	Marionette	INFO	Stopped listening on port 61149
+[Parent 12996, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 716: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "JSON store: writing data"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717898266	geckodriver	INFO	Listening on 127.0.0.1:61260
+1609717904485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilekXFTxo"
+*** You are running in headless mode.
+1609717907664	Marionette	INFO	Listening on port 61268
+1609717907727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717912282	Marionette	INFO	Stopped listening on port 61268
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717918565	geckodriver	INFO	Listening on 127.0.0.1:61404
+1609717925052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofilekc4gqm"
+*** You are running in headless mode.
+1609717928572	Marionette	INFO	Listening on port 61412
+1609717928788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717932586	Marionette	INFO	Stopped listening on port 61412
+[Child 31592, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/PageThumbUtils.jsm, line 38: TypeError: aWindow is null
+1609717938967	geckodriver	INFO	Listening on 127.0.0.1:61547
+1609717945504	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\143CWC~1\\AppData\\Local\\Temp\\rust_mozprofileD8tR1U"
+*** You are running in headless mode.
+1609717948694	Marionette	INFO	Listening on port 61555
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609717949257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://assets.adobedtm.com/launch-EN09fe9a58a5254b48b215a460de4cd41b.min.js, line 5: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tickets.fandango.com/transaction/ticketing/mobileexpress/Error.aspx?penumber=102, line 341: ReferenceError: loadGoogleAnaltics is not defined
+JavaScript error: https://www.bestbuy.com/~assets/bby/_com/sc-libraries/javascript/libraries-d3479d7f4631b94864264fdd7bdf91f3.js, line 4: Error: AnalyticsQ not available on the page!
+1609717955365	FirefoxAccounts	ERROR	Rejected FxA webchannel message from remoteType = web
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwNzMwLTU0ZmY5NTZlIn0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tIiwiYXVkIjoiaHR0cHM6Ly90b2tlbi5zZXJ2aWNlcy5tb3ppbGxhLmNvbSIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MDk0MDc2NTgsImlhdCI6MTYwOTM4NjA1OCwianRpIjoiOTM4MGYyMDQxMTE4MjRlMDc5ZDhjYWI4Y2UxNjgwOTMyZWNhYzI1ZjJiNjhjNzYyOGNlYmNlZGZiNTI3NTk5ZSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJjYmM5Yjg1ZGIwZGQ0OTRkYmM4OTRjOGYzYjkyNzI4NSIsImZ4YS1nZW5lcmF0aW9uIjoxNjA5MzU5MDEyMzUwLCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTYwOTM1OTAxMjM1MH0.E1RfKTynjotJudu0pOn1QenA8MmZciRPJr4FDs0ASPspzNQGERZUoMg2sPFEIzzS1P8ZjQTeYSrvag3rin299OTrOCYF-7aQaYhnVtKGhE51FJqcRRORyNnTOec_pPJKKkzvlJz8n1hIGXEghkBO2xBVPwJf3YUqpCLW6LW0jHGZMHN9RYy1KnVy66vC7hYxFCutp-KcSvIyDjJ7e4QZxyGIMdywdKZ6gNIiWDoQM5d7LMCNktj3xdnEfQXwfi26TA7bC3arEb-gB9krXr4y0o7x5AZ4oPq_cZ58qCac0YeaMnGMe4PSXzaR7KX6dzZL2i5yrO8cSxMPT64oKCQzTw"
