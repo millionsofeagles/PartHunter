@@ -6,7 +6,17 @@
       "msg_css_selector": ".add-to-cart-button",
       "price_css_selector": "Placeholder",
       "price": 500,
-      "msg": "Add to Cart"
+      "msg": "Add to Cart",
+      "add_to_cart": true
+    },
+    {
+      "name": "PS5 Digital Edition",
+      "url": "https://www.bestbuy.com/site/sony-playstation-5-digital-edition-console/6430161.p?skuId=6430161",
+      "msg_css_selector": ".add-to-cart-button",
+      "price_css_selector": "Placeholder",
+      "price": 400,
+      "msg": "Add to Cart",
+      "add_to_cart": true
     },
     {
       "name": "Apple - MacBook Pro - 13\" Display with Touch Bar - Intel Core i5 - 8GB Memory - 256GB SSD - Silver",
@@ -14,7 +24,8 @@
       "msg_css_selector": ".add-to-cart-button",
       "price_css_selector": "Placeholder",
       "price": 1500,
-      "msg": "Add to Cart"
+      "msg": "Add to Cart",
+      "add_to_cart": false
     },
     {
       "name": "NVIDIA GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 Graphics Card - Titanium and Black",
@@ -22,7 +33,8 @@
       "msg_css_selector": ".add-to-cart-button",
       "price_css_selector": "Placeholder",
       "price": 800,
-      "msg": "Add to Cart"
+      "msg": "Add to Cart",
+      "add_to_cart": false
     }
   ]
 }
